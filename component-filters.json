@@ -16,7 +16,8 @@
       "cards",
       "columns",
       "fragment",
-      "saibul-comp"
+      "saibul-comp",
+      "k811-app-cta"
     ]
   },
   {
@@ -38,7 +39,8 @@
       "image",
       "button",
       "title",
-      "saibul-comp"
+      "saibul-comp",
+      "k811-app-cta"
     ]
   }
 ]
