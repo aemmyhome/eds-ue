@@ -1,0 +1,9 @@
+.interest {
+  padding: 24px;
+}
+
+.interest .interest-text {
+  white-space: pre-wrap;
+  font-size: var(--body-font-size-m, 16px);
+  line-height: 1.5;
+}
